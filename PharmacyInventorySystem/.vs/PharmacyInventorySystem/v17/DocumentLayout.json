@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment4\\pharmacyinventorysystem\\pharmacyinventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|solutionrelative:pharmacyinventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment4\\pharmacyinventorysystem\\pharmacyinventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|solutionrelative:pharmacyinventorysystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment4\\pharmacyinventorysystem\\pharmacyinventorysystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|solutionrelative:pharmacyinventorysystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|c:\\users\\iconic\\desktop\\l300 second semester\\programming 2 dcit318\\assignment4\\pharmacyinventorysystem\\pharmacyinventorysystem\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E391ECFA-54D0-4C4E-89A1-4F88F2BA2169}|PharmacyInventorySystem\\PharmacyInventorySystem.csproj|solutionrelative:pharmacyinventorysystem\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PharmacyInventorySystem\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\MainForm.Designer.cs*",
+              "RelativeToolTip": "PharmacyInventorySystem\\MainForm.Designer.cs*",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwBkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:08:50.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "PharmacyInventorySystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\MainForm.cs*",
+              "RelativeToolTip": "PharmacyInventorySystem\\MainForm.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:52:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\App.config",
+              "RelativeDocumentMoniker": "PharmacyInventorySystem\\App.config",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\App.config",
+              "RelativeToolTip": "PharmacyInventorySystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T20:35:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "PharmacyInventorySystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ICONIC\\Desktop\\L300 SECOND SEMESTER\\Programming 2 DCIT318\\ASSIGNMENT4\\PharmacyInventorySystem\\PharmacyInventorySystem\\MainForm.cs [Design]*",
+              "RelativeToolTip": "PharmacyInventorySystem\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:34:47.42Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
